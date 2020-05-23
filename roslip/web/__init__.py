@@ -19,7 +19,7 @@ def index():
     return "server live"
 
 
-TIMEOUT = 10
+TIMEOUT = 30
 QUERY = 0.1
 
 
